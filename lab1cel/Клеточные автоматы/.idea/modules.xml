@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CelullarAutomata/CelullarAutomata.iml" filepath="$PROJECT_DIR$/CelullarAutomata/CelullarAutomata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendedCelullarAutomata/ExtendedCelullarAutomata.iml" filepath="$PROJECT_DIR$/ExtendedCelullarAutomata/ExtendedCelullarAutomata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Клеточные автоматы.iml" filepath="$PROJECT_DIR$/.idea/Клеточные автоматы.iml" />
+    </modules>
+  </component>
+</project>
